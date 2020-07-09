@@ -3,6 +3,6 @@ const app = new Vue({
 	data: {
 		title: 'Items',
 		textares: [],
-		txtInput: ''
+		txt: 'fghsdfhsdfh'
 	}
 });
